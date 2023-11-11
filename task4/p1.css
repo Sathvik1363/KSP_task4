@@ -1,0 +1,54 @@
+h1 {
+    text-align: center;
+    margin-bottom: 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.box {
+    border: 2px solid black;
+    width: 30vw;
+    height: 80vh;
+    background-color: navajowhite;
+    margin-top: 1px;
+    margin-left: 475px;
+    border-radius: 10px;
+    background-color: chocolate;
+    border: none;
+}
+
+.container {
+    font-size: 20px;
+    color: black;
+    padding: 50px;
+
+}
+
+#btn {
+    width: 300px;
+    height: 35px;
+    /* background-color: rgb(15, 15, 226); */
+    font-size: 25px;
+    color: black;
+    border-radius: 2px;
+
+}
+
+input {
+    width: 150px;
+    height: 25px;
+    border-radius: 5px;
+}
+
+#dob {
+    font-size: 15px;
+}
+
+.radio {
+    height: 20px;
+    width: 20px;
+    vertical-align: middle;
+}
+
+.form {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}

@@ -1,0 +1,21 @@
+h1{
+    text-align: center;
+    background-color: aqua;
+    color: red;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.n1{
+    background-color: rgb(200, 100, 500 );
+    border: 2px solid gold;
+    margin:100px;
+    padding: 50px;
+    font-size: 25px;
+}
+.n2{
+    background-color: coral;
+    border: 2px solid black;
+    padding: 25px;
+    margin: 25px;    
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
